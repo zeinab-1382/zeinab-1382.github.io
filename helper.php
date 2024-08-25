@@ -1,6 +1,6 @@
 <?php
 
-const BASE_URL="http://localhost/database-project(ramzi)/";
+const BASE_URL="https://zeinab-1382.github.io/";
 
 function asset($file){
     return BASE_URL."/".$file;
